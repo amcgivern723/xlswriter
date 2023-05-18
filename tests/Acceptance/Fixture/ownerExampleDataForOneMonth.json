@@ -1,0 +1,112 @@
+{
+	"2022-04-01":
+	{
+		"nightly_rate": 253.5,
+		"booking_type": "Bachcare"
+	},
+	"2022-04-02":
+	{
+		"nightly_rate": 253.5,
+		"booking_type": "Bachcare"
+	},
+	"2022-04-03":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-04":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-05": [],
+	"2022-04-06": [],
+	"2022-04-07": [],
+	"2022-04-08": [],
+	"2022-04-09": [],
+	"2022-04-10": [],
+	"2022-04-11": [],
+	"2022-04-12": [],
+	"2022-04-13": [],
+	"2022-04-14":
+	{
+		"nightly_rate": 307.25,
+		"booking_type": "Bachcare"
+	},
+	"2022-04-15":
+	{
+		"nightly_rate": 307.25,
+		"booking_type": "Bachcare"
+	},
+	"2022-04-16":
+	{
+		"nightly_rate": 307.25,
+		"booking_type": "Bachcare"
+	},
+	"2022-04-17":
+	{
+		"nightly_rate": 307.25,
+		"booking_type": "Bachcare"
+	},
+	"2022-04-18":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-19":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-20":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-21":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-22":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-23":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-24":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-25":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-26":
+	{
+		"nightly_rate": 0,
+		"booking_type": "Own Use (Family/Friends/Personal)"
+	},
+	"2022-04-27":
+	{
+		"nightly_rate": 0,
+		"booking_type": "R&M House Not Useable"
+	},
+	"2022-04-28":
+	{
+		"nightly_rate": 0,
+		"booking_type": "R&M House Not Useable"
+	},
+	"2022-04-29":
+	{
+		"nightly_rate": 0,
+		"booking_type": "R&M House Not Useable"
+	},
+	"2022-04-30": []
+}
